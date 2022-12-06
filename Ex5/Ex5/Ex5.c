@@ -15,6 +15,8 @@
 //-- directive préprocesseur pour supprimer certains warining --//
 #pragma warning(disable : 4996)		//-- warning concernant les scanf
 
+// DémoGit
+
 //--- librairie standart ---//
 #include <stdio.h>                  // entrée - sortie
 
